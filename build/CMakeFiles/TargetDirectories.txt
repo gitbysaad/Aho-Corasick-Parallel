@@ -1,0 +1,3 @@
+/home/parallels/Desktop/ahocorasick/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/ahocorasick/build/CMakeFiles/ahocorasick.dir
+/home/parallels/Desktop/ahocorasick/build/CMakeFiles/edit_cache.dir
